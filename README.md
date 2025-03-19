@@ -11,6 +11,9 @@ This is a simple database project for [Technology Access Foundation](https://tec
 ### SQL Code
 <img width="581" alt="Screenshot 2025-03-18 at 9 21 26 PM" src="https://github.com/user-attachments/assets/c22e9524-d7b4-4eb9-a1ad-1a655cda12a3" />
 
+## Python Code
+<img width="1149" alt="Screenshot 2025-03-18 at 9 26 11 PM" src="https://github.com/user-attachments/assets/8629d5fa-d25b-4cff-a123-2dedc205c85c" />
+
 
 #### Note
 The instructions referenced using Microsoft SQL Server & pyodbc for database operations but as a Intel Mac user (don't judge me) it was advised to use MySQL Workbench and PyMySQL. 
