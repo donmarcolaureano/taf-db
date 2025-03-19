@@ -16,7 +16,7 @@ This is a simple database project for [Technology Access Foundation](https://tec
 
 
 #### Note
-The instructions referenced using Microsoft SQL Server & pyodbc for database operations but as a Intel Mac user (don't judge me) it was advised to use MySQL Workbench and PyMySQL. 
+The instructions referenced using Microsoft SQL Server & pyodbc for database operations but as a Intel Mac user (don't judge me) it was advised to use MySQL Workbench, PyMySQL, and SQLAlchemy. 
 
 
 Marco Laureano
