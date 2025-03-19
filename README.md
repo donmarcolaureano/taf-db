@@ -3,7 +3,17 @@
 # SQL Server Database Project
 This is a simple database project for [Technology Access Foundation](https://techaccess.org/), a Seattle-based nonprofit leader redefining K-12 public education throughout Washington State for all students and teachers, particularly those who identify as a person of color and are from traditionally underserved communities.
 
-## Note
-The instructions referenced using Microsoft SQL Server & pyodbc for database operations but as a Intel Mac user (don't judge me) it was advised to use MySQL Workbench and PyMySQL
+## SQL Table & Server
+
+### ERD
+![taf_db_erd](https://github.com/user-attachments/assets/c845607f-b6d2-4092-ad0d-d04f56be3b2c)
+
+### SQL Code
+<img width="581" alt="Screenshot 2025-03-18 at 9 21 26 PM" src="https://github.com/user-attachments/assets/c22e9524-d7b4-4eb9-a1ad-1a655cda12a3" />
+
+
+#### Note
+The instructions referenced using Microsoft SQL Server & pyodbc for database operations but as a Intel Mac user (don't judge me) it was advised to use MySQL Workbench and PyMySQL. 
+
 
 Marco Laureano
