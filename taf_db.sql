@@ -15,3 +15,5 @@ CREATE TABLE employees (
     manager_id INT NULL,
     FOREIGN KEY (manager_id) REFERENCES employees(id)
 ) ENGINE = InnoDB;
+
+SELECT * FROM employees;
