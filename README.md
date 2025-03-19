@@ -3,4 +3,7 @@
 # SQL Server Database Project
 This is a simple database project for [Technology Access Foundation](https://techaccess.org/), a Seattle-based nonprofit leader redefining K-12 public education throughout Washington State for all students and teachers, particularly those who identify as a person of color and are from traditionally underserved communities.
 
+## Note
+The instructions referenced using Microsoft SQL Server & pyodbc for database operations but as a Intel Mac user (don't judge me) it was advised to use MySQL Workbench and PyMySQL
+
 Marco Laureano
