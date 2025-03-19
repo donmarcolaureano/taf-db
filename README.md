@@ -29,7 +29,7 @@ This is a simple database project for [Technology Access Foundation](https://tec
 
 
 ### Resources
-ChatGPT, StackOverflow, [PyMySQL](https://pypi.org/project/PyMySQL/), [SQLAlchemy](https://docs.sqlalchemy.org/), 
+ChatGPT, StackOverflow, [PyMySQL](https://pypi.org/project/PyMySQL/), [SQLAlchemy](https://docs.sqlalchemy.org/)
 
 #### Note
 The instructions referenced using Microsoft SQL Server & pyodbc for database operations but as a Intel Mac user (don't judge me) it was advised to use MySQL Workbench, PyMySQL, and SQLAlchemy (ChatGPT). I did find instructions on how to [install SQL Server on Mac](https://builtin.com/software-engineering-perspectives/sql-server-management-studio-mac#:~:text=Microsoft%20provides%20Azure%20Data%20Studio,to%20run%20SSMS%20on%20Mac/) but it seemed like a lot of effort and for time's sake, I used what I am comfortable and familiar with. 
