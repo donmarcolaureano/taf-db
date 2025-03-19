@@ -5,7 +5,7 @@ This is a simple database project for [Technology Access Foundation](https://tec
 
 ## SQL Table & Server
 
-### ERD
+### Schema
 ![taf_db_erd](https://github.com/user-attachments/assets/c845607f-b6d2-4092-ad0d-d04f56be3b2c)
 
 ### SQL Code
